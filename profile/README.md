@@ -1,12 +1,6 @@
-## Hi there 👋
+## 💼 Organization that creates interesting stuff 
 
-<!--
+- 🍉 Arbuz Bot - a fun bot designed for tg groups, link [here](https://github.com/The-B1T-Foundation/tg_arbuz-bot).
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+I'm a [b1tflyyyy](https://github.com/b1tflyyyy), 16 year-old developer. 
+I started learning programming when I was only 13. I began my programming journey with embedded programming using an Arduino UNO R3, where I used C++.
